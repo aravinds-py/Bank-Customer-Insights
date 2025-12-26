@@ -8,7 +8,7 @@ The focus is on turning customer, loan, and deposit data into insights that actu
 
 ## 🗂️ Repository Structure
 
-
+```text
 Bank-Customer-Insights/
 │
 ├── Dataset/
@@ -25,7 +25,7 @@ Bank-Customer-Insights/
 │   └── page4_summary.png
 │
 └── README.md
-
+```
 ## 🔍 Project Components
 
 ## 📁 Dataset
